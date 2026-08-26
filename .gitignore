@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+
+# Logs
+*.log
