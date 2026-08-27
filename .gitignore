@@ -47,3 +47,22 @@ Desktop.ini
 *.tmp
 *.bak
 *~
+
+# ===== 密钥 / 凭据 =====
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+*.secret
+secrets/
+credentials.json
+*.token
